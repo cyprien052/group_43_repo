@@ -3,6 +3,8 @@
 # ==========================================
 # Ignore the data folder and all its contents
 data/
+project/datasets/
+project/training/
 
 # ==========================================
 # Jupyter Notebook & IPython
